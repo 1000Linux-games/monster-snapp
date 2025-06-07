@@ -1,0 +1,7 @@
+monster-snapp/
+├── monster-snapp.yaml          # Flatpak-Build-Datei
+├── monster-snapp.desktop       # Desktop-Datei
+├── monster-snapp.py            # Spielcode
+├── assets/icon.png             # App-Icon
+├── README.md
+├── LICENSE
