@@ -1,0 +1,12 @@
+Monster Snapp benötigt Pygame um zu Lauffen!
+
+Überprüfe die Python-Version: Stelle sicher, dass du die neueste Version von Python hast. Du kannst dies mit dem Befehl python3 --version überprüfen. Wenn du nicht die neueste Version hast, aktualisiere sie, indem du sudo apt update und sudo apt upgrade ausführst.
+Überprüfe die pip-Version: Stelle sicher, dass du die neueste Version von pip hast. Du kannst dies mit dem Befehl pip3 --version überprüfen. Wenn du nicht die neueste Version hast, aktualisiere sie, indem du sudo apt update und sudo apt install python3-pip ausführst.
+Installiere Pygame: Öffne einen Terminal und gib den Befehl sudo apt-get install python3-pygame ein. Dies wird Pygame auf deinem Linux-System installieren.
+Wenn du Probleme beim Installieren von Pygame hast, kannst du auch den folgenden Befehl ausführen: sudo apt-get install -f Dies wird alle fehlenden Abhängigkeiten installieren.
+
+Wenn du nach dem Installieren von Pygame immer noch Probleme hast, kannst du den folgenden Befehl ausführen: pip3 install pygame Dies wird Pygame über pip installieren.
+
+Ich hoffe, das hilft! Wenn du weitere Fragen hast, stehe ich gerne zur Verfügung.
+
+Hinweis: Die genauen Schritte können je nach Linux-Distribution variieren. Die oben genannten Schritte sind für Ubuntu und ähnliche Distributionen geeignet.
